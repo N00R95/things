@@ -1,2 +1,2 @@
-# things to try
+# things
 none
